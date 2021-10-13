@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Meh" << std::endl;	
+  std::cout << "Hola Mundo" << std::endl;
+  return EXIT_SUCCESS;
 }
