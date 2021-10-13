@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Meh" << std::endl;
-  return EXIT_SUCESS;
+  std::cout << "Hola Mundo" << std::endl;
+  return EXIT_SUCCESS;
 }
